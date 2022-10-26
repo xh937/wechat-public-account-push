@@ -14,7 +14,7 @@ const USER_CONFIG = {
   APP_SECRET: '008392088a80126895f73f8dbfdee33c',
 
   PROVINCE: '重庆市',
-  CITY: '合川区',
+  CITY: '永川区',
 
   USERS: [
     {
@@ -33,7 +33,7 @@ const USER_CONFIG = {
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '生日', name: '李好好', year: '2001', date: '10-27',
+          type: '*生日', name: '李好好', year: '2001', date: '09-11',
         },
       ],
       // 我们在一起已经有xxxx天了的配置
