@@ -41,7 +41,7 @@ const USER_CONFIG = {
         // 在一起的日子
         { keyword: 'love_day', date: '2020-11-01' },
         // 第一次见你纪念日
-        { keyword: 'marry_day', date: '2019-10-07' },
+        { keyword: 'marry_day', date: '2019-12-18' },
       ],
     },
   ],
